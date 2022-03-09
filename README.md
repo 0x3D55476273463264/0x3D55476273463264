@@ -44,6 +44,7 @@
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 
+<div>
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/walefxavier/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-dvbliw-05122A?style=flat&logo=linkedin" alt="linkedin"/>
@@ -57,6 +58,6 @@
  <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/>
 </a>
 </p>
-
+</div>
 
 <img width="1000em" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true" />
