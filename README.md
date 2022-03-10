@@ -1,7 +1,7 @@
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Walef Xavier</h1>
 
-- 🔥 DevOps & Appsec 
+- 🔥 Estudante de DevOps & Appsec 
 - 📚 Sistema de Informação | Uniatenas
 - 🏙️ Cristalina - Goiás
 
