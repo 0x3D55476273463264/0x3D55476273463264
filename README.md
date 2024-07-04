@@ -1,63 +1,37 @@
+## 🥷🏾 Hi, I'm walle 🖥️
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Walef Xavier</h1>
+------------
 
-- 🔥 Estudante de DevOps & Appsec 
-- 📚 Sistema de Informação | Uniatenas
-- 🏙️ Cristalina - Goiás
 
-<br> 
 
-## 🛠 &nbsp;Skills
-
-<div style="display: inline_block"><br>
-  
-
-  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">-
-  <img align="center" alt="Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>-
-  <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>-
-  <img align="center" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>-
-  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>-
-  <img align="center" alt="Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>-
-  <img align="center" alt="Vagrant" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg"/>-
-  <img align="center" alt="nginx" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"/>-
-  <img align="center" alt="apache2" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg"/>-
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>-
-  <img align="center" alt="Gitlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/>
- 
-  
+#### Sou um entusiasta de segurança da informação com foco na exploração de infraestrutura e serviços web.
   
 </div>
+
+```go
+package main
+
+import (
+    "fmt"
+)
+
+func main() {
+    fmt.Println("Contacts:")
+    fmt.Println("Discord: @walle1st)
+}
+```
   
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=dvbliw&show_icons=true&theme=apprentice" alt="stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvbliw&layout=compact&theme=apprentice" alt="most languages"/>
-</p>
-
-<br><br>
-
-## 👨🏽‍🦲 &nbsp;Social Links
+### 🏆 Certificações
 
 <div>
-<p align="left" style="background:yellow">
-<a href="https://www.linkedin.com/in/walefxavier/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-dvbliw-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/dabliw1st" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-dvbliw-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-</p>
-
-<a href="https://medium.com/@jdabliw" target="_blank">
- <img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium"/>
-</a>
-</p>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/-DCPT-%232f264f?style=for-the-badge&logoColor=white" target="_blank"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/-CWHI-%232f264f?style=for-the-badge&logoColor=white" target="_blank"></a>
+<a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/5T5XFFJ261QQQXGZ" target="_blank"><img src="https://img.shields.io/badge/-AWS%20%20%20%201x-%232f264f?style=for-the-badge&logoColor=white" target="_blank"></a> 
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=81EC103D9EA67866609C53677FD568E3228480AEBEE1C777ACAB9B3F6C0ABFFD" target="_blank"><img src="https://img.shields.io/badge/-ORACLE%20%20%20%201x-%232f264f?style=for-the-badge&logoColor=white" target="_blank"></a>
 </div>
 
-<img width="1000em" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true" />
+
+### 📱 Midia Social
+<div> 
+  <a href="https://www.linkedin.com/in/walefxavier/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%232f264f?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
