@@ -17,7 +17,7 @@ import (
 
 func main() {
     fmt.Println("Contacts:")
-    fmt.Println("Discord: @walle1st")
+    fmt.Println("Discord: @0x3D55476273463264")
 }
 ```
   
